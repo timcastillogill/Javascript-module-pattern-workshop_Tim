@@ -16,17 +16,17 @@ In this workshop, you'll practice one part of this: encapsulating and sharing yo
 
 ### Implement the module pattern (30 mins)
 
-* Pair up.
+- Pair up.
 
-* Clone this repo.
+- Clone this repo.
 
-* Open `SpecRunner.html` in your browser to run the tests.
+- Open `SpecRunner.html` in your browser to run the tests.
 
-* TDD a `smiley.js` module.  It should have a function that takes some text and returns the text with a space and a smiley appended.  e.g. `smiley("hello")` should return `"hello :)"`.
+- TDD a `smiley.js` module. It should have a function that takes some text and returns the text with a space and a smiley appended. e.g. `smiley("hello")` should return `"hello :)"`.
 
-* Rename `interrobang.js` to `interrobangsmiley.js`.  Update the code to use your `smiley.js` function to include a smiley in its output.  For example: `hello??! :)`.
+- Rename `interrobang.js` to `interrobangsmiley.js`. Update the code to use your `smiley.js` function to include a smiley in its output. For example: `hello??! :)`.
 
-* Try and answer the questions below.
+- Try and answer the questions below.
 
 #### Questions
 
@@ -38,10 +38,9 @@ In this workshop, you'll practice one part of this: encapsulating and sharing yo
 
 ### Plenary (15 mins)
 
-We'll come back together for a short plenary.  We'll discuss problems we had writing code that uses the module pattern. And we'll answer the questions below.
+We'll come back together for a short plenary. We'll discuss problems we had writing code that uses the module pattern. And we'll answer the questions below.
 
 ## Resources
 
-* [Immediately Invoked Function Expression (IIFE)](http://stackoverflow.com/questions/8228281/what-is-the-function-construct-in-javascript)
-* :pill: [JavaScript module pattern](https://github.com/makersacademy/course/blob/master/pills/javascript_module_pattern.md)
-# This is my answers to the workshop about module patterns
+- [Immediately Invoked Function Expression (IIFE)](http://stackoverflow.com/questions/8228281/what-is-the-function-construct-in-javascript)
+- :pill: [JavaScript module pattern](https://github.com/makersacademy/course/blob/master/pills/javascript_module_pattern.md)
